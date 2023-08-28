@@ -1,20 +1,38 @@
+function addNav() {
+  const nav = document.createElement('nav');
+  nav.setAttribute('id', 'nav');
+  nav.innerHTML = ` 
+  <div id="nav-open" class="nav__icon"><i class="fa-sharp fa-solid fa-bars"></i></div>
+  <div id="nav-close" class="nav__icon closed"><i class="fa-sharp fa-solid fa-x"></i></div>
+  <ul id="nav-links" class="nav__links closed">
+      <li class="Text Block"><a href="/">Home</a></li>
+      <li class="Text Block"><a href="/about">About</a></li>
+      <li class="Text Block"><a href="/terrain">Terrain</a></li>
+      <li class="Text Block"><a href="/impact">Impact</a></li>
+  </ul>
+  `;
+  document.body.insertBefore(nav, document.body.firstChild);
+}
+
 function toggleNav() {
-    let navOpen = document.getElementById('nav-open');
-    let navClose = document.getElementById('nav-close');
-    let openButton = document.getElementById('open-button');
-    let closeButton = document.getElementById('close-button');
-  
-    // When nav-open is clicked, hide it and show nav-close
-    openButton.addEventListener('click', function() {
-      navOpen.classList.toggle('closed');
-      navClose.classList.toggle('closed');
+   const nav = document.getElementById('nav');
+    const navOpen = document.getElementById('nav-open');
+    const navClose = document.getElementById('nav-close');
+    const navLinks = document.getElementById('nav-links');
+
+    navOpen.addEventListener('click', () => {
+        navOpen.classList.add('closed');
+        navClose.classList.remove('closed');
+        navLinks.classList.remove('closed');
+        nav.style.backgroundColor = '#fff';
     });
-  
-    // When nav-close is clicked, hide it and show nav-open
-    closeButton.addEventListener('click', function() {
-      navOpen.classList.toggle('closed');
-      navClose.classList.toggle('closed');
+
+    navClose.addEventListener('click', () => {
+        navOpen.classList.remove('closed');
+        navClose.classList.add('closed');
+        navLinks.classList.add('closed');
+        nav.style.backgroundColor = 'transparent';
     });
-  }
+}
   
-  export default toggleNav;
+export default {addNav, toggleNav};
