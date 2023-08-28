@@ -17,6 +17,19 @@
     border-radius: 1vw;
 }
 
+.white__square {
+    z-index: 3;
+    width: 100vw;
+    height: 100vh;
+    border: 1.6vw solid #fff;
+    display: flex;
+    position: fixed;
+    top: 0%;
+    bottom: auto;
+    left: 0%;
+    right: auto;
+}
+
 @media screen and (max-width: 479px) {
     .info-container {
         position: fixed;
