@@ -1,6 +1,7 @@
 function addNav() {
   const nav = document.createElement('nav');
   nav.setAttribute('id', 'nav');
+  nav.setAttribute('class', 'nav');
   nav.innerHTML = ` 
   <div id="nav-open" class="nav__icon"><i class="fa-sharp fa-solid fa-bars"></i></div>
   <div id="nav-close" class="nav__icon closed"><i class="fa-sharp fa-solid fa-x"></i></div>
