@@ -36,4 +36,4 @@ function toggleNav() {
     });
 }
   
-export default {addNav, toggleNav};
+export default { addNav, toggleNav };
