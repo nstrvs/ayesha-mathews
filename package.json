@@ -1,0 +1,17 @@
+{
+  "name": "ayesha-mathews",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel build src/index.js --dist-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstrvs/ayesha-mathews"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2"
+  }
+}
