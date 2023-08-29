@@ -89,7 +89,9 @@ ul {
     }
 
     .nav__icon {
-        width: 100vw;
+        top: 2.5vw;
+        left: 2.5vw;
+        width: 95vw;
         height: 10vw;
     }
 
