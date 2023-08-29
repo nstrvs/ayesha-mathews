@@ -19,7 +19,7 @@
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-serial.js133377977702105604 0
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\abortcontroller-polyfill\src\ponyfill.js133377977677655498 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133377977676205493 0
-52C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist133377979387690524 1
+52C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist133378090205750506 1
 113C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133377977692350495 0
 113C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133377977678660484 0
 79C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\utility-types\dist133377977680355491 1
@@ -114,7 +114,7 @@
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133377977690215491 1
 99C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133377977689450500 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules133377977653700497 1
-66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\styles\nav.css133377976937560501 0
+66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\styles\nav.css133378089070175481 0
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\type-fest\ts41\index.d.ts133377977679905483 0
 118C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133377977682525486 0
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133377977682765498 0
@@ -164,7 +164,7 @@
 84C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\stringifier.js133377977686380482 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\node_modules\domutils\package.json133377977680235489 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\css-width-stretch.js133377977693105497 0
-62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\nav.js133377978816785513 0
+62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\nav.js133378089070175481 0
 65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\styles.js133377052724015465 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\convertPathData.js133377977680425483 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@msgpackr-extract133377977716115492 1
@@ -658,7 +658,7 @@
 88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\lib\general.d.ts133377977687470494 0
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\dist\data.js133377977691185500 0
 112C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133377977694530523 1
-62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css133377977898715488 0
+62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css133378090203780490 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\types.d.ts133377977681470484 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\yallist\README.md133377977674885484 0
 103C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\dist\version.js133377977693345510 0
@@ -2276,7 +2276,7 @@
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\index.d.ts133377977680470480 0
 87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\binary.js133377977673010484 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\mutation-events.js133377977698300501 0
-61C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js133377979387610475 0
+61C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js133378090205685495 0
 85C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\bool.js133377977673745499 0
 100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-browser-hmr\lib\loaders133377977672905484 1
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\float.js133377977677770487 0
@@ -3283,7 +3283,7 @@
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\stringify.d.ts.map133377977679395499 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\.bin\download-msgpackr-prebuilds133377977703130484 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\lib\_class_apply_descriptor_set.js133377977689470484 0
-66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css.map133377977898775502 0
+66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css.map133378090203885477 0
 97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\types.d.ts.map133377977679875502 0
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\generator133377977693240495 1
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133377977699645482 0
@@ -4502,7 +4502,7 @@
 94C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\wav.js133377977702030481 0
 105C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\css-tree133377977690325508 1
 104C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-animation.js133377977702060480 0
-65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js.map133377979387675489 0
+65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js.map133378090205740488 0
 107C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-app-manifest.js133377977702075515 0
 104C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-bluetooth.js133377977702090477 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\lib\_class_private_field_update.js133377977690400482 0
