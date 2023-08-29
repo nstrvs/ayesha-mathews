@@ -1,4 +1,4 @@
-6109
+6111
 98C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-js\src\helpers\worker133377977683650485 1
 90C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\cjs\lexer\search.cjs133377977688905497 0
 98C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133377977687605488 0
@@ -19,7 +19,7 @@
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-serial.js133377977702105604 0
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\abortcontroller-polyfill\src\ponyfill.js133377977677655498 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133377977676205493 0
-52C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist133378091411990507 1
+52C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist133378111080585480 1
 113C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133377977692350495 0
 113C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133377977678660484 0
 79C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\utility-types\dist133377977680355491 1
@@ -74,7 +74,7 @@
 66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@lmdb133377977716120484 1
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\semver\functions\major.js133377977681195484 0
 103C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133377977696510492 0
-58C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared133377979235225476 1
+58C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared133378095570270511 1
 119C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133377977685680498 0
 89C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\posthtml-parser\changelog.md133377977675655516 0
 58C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\styles133377278126765483 1
@@ -114,7 +114,7 @@
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133377977690215491 1
 99C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133377977689450500 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules133377977653700497 1
-66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\styles\nav.css133378091349190495 0
+66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\styles\nav.css133378110899475500 0
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\type-fest\ts41\index.d.ts133377977679905483 0
 118C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133377977682525486 0
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133377977682765498 0
@@ -131,9 +131,27 @@
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\cosmiconfig\dist\Explorer.d.ts133377977683200492 0
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\index.js133377977674545505 0
 68C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared\close.svg133377979107870510 0
+127C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133377977683425487 0
+79C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\gsap\CustomEase.js133377977680210487 0
+71C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared\linkedin.svg133378095570245516 0
+87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nullthrows\nullthrows.d.ts133377977673475486 0
+88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lightningcss\node\index.mjs133377977678910487 0
+91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\core\lib\assetUtils.js133377977682830485 0
+83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\svgo\tools.js133377977687320486 0
+92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-image\LICENSE133377977672005489 0
+101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\source-map-js\lib\source-map-consumer.js133377977676890495 0
+107C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\css-env-function.js133377977690780487 0
 74C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\svgo133377977687590498 1
 109C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133377977679435510 0
 67C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared\open.svg133377979235200492 0
+92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\regions\KZ.js133377977697145503 0
+100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\gyroscope.js133377977695470483 0
+70C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\commander133377977676960498 1
+89C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\cleanupAttrs.js133377977677785492 0
+145C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133377977682935496 0
+102C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\eventsource.js133377977694365480 0
+110C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133377977675670486 0
+70C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\shared\twitter.svg133378095347015507 0
 88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lightningcss-win32-x64-msvc133377977673920497 1
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\domutils\lib\feeds.js133377977672815500 0
 69C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what133377977680225484 1
@@ -164,7 +182,7 @@
 84C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\stringifier.js133377977686380482 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\node_modules\domutils\package.json133377977680235489 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\css-width-stretch.js133377977693105497 0
-62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\nav.js133378089070175481 0
+62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\nav.js133378110491865478 0
 65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\src\app\styles.js133377052724015465 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\convertPathData.js133377977680425483 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@msgpackr-extract133377977716115492 1
@@ -273,9 +291,6 @@
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts133377977678960484 0
 107C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\package-manager\src\JSONParseStream.js133377977680935493 0
 71C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\color-name133377977673920497 1
-92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\regions\KZ.js133377977697145503 0
-100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\gyroscope.js133377977695470483 0
-70C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\commander133377977676960498 1
 72C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\cosmiconfig133377977682735503 1
 105C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo133377977687895502 1
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\react-error-overlay\lib\index.js133377977676185493 0
@@ -658,7 +673,7 @@
 88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\lib\general.d.ts133377977687470494 0
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\dist\data.js133377977691185500 0
 112C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133377977694530523 1
-62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css133378091411925504 0
+62C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css133378111078470511 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\types.d.ts133377977681470484 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\yallist\README.md133377977674885484 0
 103C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\dist\version.js133377977693345510 0
@@ -714,12 +729,12 @@
 95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133377977676535503 0
 75C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_133377977696110496 1
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\timsort\src\timsort.js133377977676900490 0
-93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\transformer-json\LICENSE133377977671935495 0
-74C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\level.js133377977689640494 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\lib\esm\attributes.js133377977676250500 0
 117C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_initializer_define_property\package.json133377977694950490 0
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\snippet.js133377977682035484 0
 100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\flow-root.js133377977694720496 0
+93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\transformer-json\LICENSE133377977671935495 0
+74C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\level.js133377977689640494 0
 95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133377977675935497 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133377977672110488 0
 112C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\mdn-data\css\at-rules.schema.json133377977676570500 0
@@ -1130,8 +1145,8 @@
 87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\transformer-js\lib133377977676145489 1
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\semver\ranges\max-satisfying.js133377977681345500 0
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr\index.js133377977679010492 0
-82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\posthtml\node_modules133377977653670483 1
 78C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\term-size\license133377977673820492 0
+82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\posthtml\node_modules133377977653670483 1
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\term-size\package.json133377977676685486 0
 96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\cleanupListOfValues.js133377977678895493 0
 116C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133377977687900498 0
@@ -1164,8 +1179,8 @@
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\usage.js133377977684905502 0
 80C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\stable\package.json133377977671640484 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\regions\PL.js133377977699220492 0
-97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\import.js133377977691710481 0
 70C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\dist133377977686615494 1
+97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\import.js133377977691710481 0
 77C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\dotenv\config.js133377977673470494 0
 109C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\lib\_possible_constructor_return.js133377977692475491 0
 69C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib133377977687750484 1
@@ -1181,7 +1196,6 @@
 130C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133377977672780502 0
 97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\tls1-1.js133377977701235477 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\applyTransforms.js133377977677090495 0
-89C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\cleanupAttrs.js133377977677785492 0
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\src\_set.mjs133377977697390488 0
 103C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\json-parse-even-better-errors\CHANGELOG.md133377977673385484 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133377977700190488 0
@@ -1266,8 +1280,8 @@
 100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_assert_this_initialized133377977693765486 1
 103C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133377977685825497 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\regions\AZ.js133377977685135486 0
-90C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\removeViewBox.js133377977685890483 0
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\schema.js133377977681580481 0
+90C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\removeViewBox.js133377977685890483 0
 94C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\plugins\removeXMLProcInst.js133377977686045505 0
 122C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133377977675735485 0
 126C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\index.js133377977683065490 0
@@ -1316,15 +1330,6 @@
 96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\svgo\css-select-adapter.js133377977681185490 0
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\.bin\browserslist.cmd133377977703100490 0
 85C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\react-refresh\runtime.js133377977676415472 0
-127C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133377977683425487 0
-79C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\gsap\CustomEase.js133377977680210487 0
-87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nullthrows\nullthrows.d.ts133377977673475486 0
-88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lightningcss\node\index.mjs133377977678910487 0
-91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\core\lib\assetUtils.js133377977682830485 0
-83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\svgo\lib\svgo\tools.js133377977687320486 0
-92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-image\LICENSE133377977672005489 0
-101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\source-map-js\lib\source-map-consumer.js133377977676890495 0
-107C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\css-env-function.js133377977690780487 0
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\utils\src\hash.js133377977682080499 0
 105C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_super_prop_base\package.json133377977695645487 0
 82C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\semver\internal\re.js133377977683170484 0
@@ -1776,8 +1781,8 @@
 118C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133377977686630492 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nth-check\lib\esm\compile.d.ts133377977680925501 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nth-check\lib\esm\compile.js.map133377977678300497 0
-89C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nth-check\lib\esm\index.d.ts133377977681095481 0
 98C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_to_property_key.cjs133377977687510495 0
+89C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nth-check\lib\esm\index.d.ts133377977681095481 0
 120C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133377977683300483 0
 87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\nth-check\lib\esm\index.js133377977674370482 0
 77C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr\LICENSE133377977671915481 0
@@ -1889,8 +1894,6 @@
 132C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133377977703115503 0
 100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133377977685750487 0
 115C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133377977683080493 0
-96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_array_without_holes133377977693740489 1
-96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\index.js133377977691955494 0
 132C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133377977703105500 0
 123C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo133377977689350481 1
 81C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\msgpackr\index.d.cts133377977676685486 0
@@ -2276,7 +2279,7 @@
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\index.d.ts133377977680470480 0
 87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\binary.js133377977673010484 0
 106C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\mutation-events.js133377977698300501 0
-61C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js133378090205685495 0
+61C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js133378111080520499 0
 85C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\bool.js133377977673745499 0
 100C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\runtime-browser-hmr\lib\loaders133377977672905484 1
 86C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\js-yaml\lib\type\float.js133377977677770487 0
@@ -2423,9 +2426,6 @@
 90C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\cache\lib\IDBCache.js133377977675810488 0
 112C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133377977675075493 0
 117C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133377977678200500 0
-145C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133377977682935496 0
-102C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\eventsource.js133377977694365480 0
-110C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133377977675670486 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\custom.js133377977676755473 0
 111C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133377977677110490 0
 97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\htmlnano\lib\modules\mergeScripts.js133377977679245506 0
@@ -2916,8 +2916,6 @@
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\cjs\index.cjs133377977686445498 0
 143C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133377977686385487 0
 87C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree133377977693490494 1
-132C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133377977680250489 0
-95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_to_primitive.cjs133377977687450492 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\mdn-data\api133377977678950490 1
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\cosmiconfig\dist\ExplorerBase.js133377977674915489 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\csso\node_modules\css-tree\lib133377977693360503 1
@@ -3283,7 +3281,7 @@
 101C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\stringify.d.ts.map133377977679395499 0
 93C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\.bin\download-msgpackr-prebuilds133377977703130484 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\lib\_class_apply_descriptor_set.js133377977689470484 0
-66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css.map133378091411980492 0
+66C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.css.map133378111078560481 0
 97C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-what\lib\commonjs\types.d.ts.map133377977679875502 0
 83C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\generator133377977693240495 1
 114C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133377977699645482 0
@@ -3355,6 +3353,8 @@
 99C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\node\StyleSheet.js133377977693155489 0
 94C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\node\Value.js133377977693500492 0
 99C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133377977693615504 0
+96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\_\_array_without_holes133377977693740489 1
+96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\index.js133377977691955494 0
 96C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\media.js133377977692325489 0
 95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\css-tree\lib\syntax\atrule\nest.js133377977692520496 0
 92C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\regions\DE.js133377977693580485 0
@@ -4502,7 +4502,7 @@
 94C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\wav.js133377977702030481 0
 105C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-svgo\node_modules\css-tree133377977690325508 1
 104C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-animation.js133377977702060480 0
-65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js.map133378090205740488 0
+65C:\Users\Shadow\Documents\GitHub\ayesha-mathews\dist\index.js.map133378111080575517 0
 107C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-app-manifest.js133377977702075515 0
 104C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\caniuse-lite\data\features\web-bluetooth.js133377977702090477 0
 108C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\lib\_class_private_field_update.js133377977690400482 0
@@ -4886,6 +4886,8 @@
 112C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_tagged_template_literal_loose.cjs133377977687130488 0
 88C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_throw.cjs133377977687250497 0
 102C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs133377977687380480 0
+132C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133377977680250489 0
+95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_to_primitive.cjs133377977687450492 0
 95C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_ts_generator.cjs133377977687625495 0
 113C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@babel\helper-validator-identifier\lib\identifier.js133377977673570478 0
 91C:\Users\Shadow\Documents\GitHub\ayesha-mathews\node_modules\@swc\helpers\cjs\_ts_param.cjs133377977687730497 0
