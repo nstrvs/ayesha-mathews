@@ -27,7 +27,7 @@ function toggleNav() {
     const navFooter = document.getElementById('nav-footer');
 
     if (window.innerWidth <= 479) {
-        nav.style.pointerEvents = 'none';
+        nav.style.height = '10vh';
     }
 
     navOpen.addEventListener('click', () => {
@@ -38,7 +38,7 @@ function toggleNav() {
         nav.style.backgroundColor = '#fff';
 
         if (window.innerWidth <= 479) {
-            nav.style.pointerEvents = 'auto';
+            nav.style.height = '100vh';
         }
     });
 
@@ -50,7 +50,7 @@ function toggleNav() {
         nav.style.backgroundColor = 'transparent';
 
         if (window.innerWidth <= 479) {
-            nav.style.pointerEvents = 'none';
+            nav.style.height = '10vh';
         }
     });
 }
