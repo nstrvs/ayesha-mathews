@@ -62,9 +62,21 @@ ul {
     letter-spacing: 0.1vw;
 }
 
-.nav__icon-footer {
-    width: 3vw;
-    height: 3vw;
+.nav__footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1vw;
+    position: fixed;
+    bottom: 1.6vw;
+    left: 1.6vw;
+}
+
+
+.nav__footer-item {
+    width: 2vw;
+    height: 2vw;
 }
 
 .closed {
