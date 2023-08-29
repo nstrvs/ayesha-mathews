@@ -26,12 +26,20 @@ function toggleNav() {
     const navLinks = document.getElementById('nav-links');
     const navFooter = document.getElementById('nav-footer');
 
+    if (window.innerWidth <= 479) {
+        nav.style.pointerEvents = 'none';
+    }
+
     navOpen.addEventListener('click', () => {
         navOpen.classList.add('closed');
         navClose.classList.remove('closed');
         navLinks.classList.remove('closed');
         navFooter.classList.remove('closed');
         nav.style.backgroundColor = '#fff';
+
+        if (window.innerWidth <= 479) {
+            nav.style.pointerEvents = 'auto';
+        }
     });
 
     navClose.addEventListener('click', () => {
@@ -40,7 +48,11 @@ function toggleNav() {
         navLinks.classList.add('closed');
         navFooter.classList.add('closed');
         nav.style.backgroundColor = 'transparent';
+
+        if (window.innerWidth <= 479) {
+            nav.style.pointerEvents = 'none';
+        }
     });
 }
-  
+
 export default { addNav, toggleNav };
