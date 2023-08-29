@@ -52,7 +52,11 @@ ul {
 }
 
 .nav__item {
-    color: white;
+    color: #000;
+    font-family: Oswald, sans-serif;
+    font-size: 1.4vw;
+    font-weight: 700;
+    line-height: 2vw;
     text-decoration: none;
 }
 
