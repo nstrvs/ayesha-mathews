@@ -12,8 +12,8 @@ function addNav() {
       <li><a class="nav__item" href="/impact">Impact</a></li>
   </ul>
   <div class="nav__icons-wrapper">
-  <a class="nav__icon is-small" href="https://www.linkedin.com/in/ayeshamathews/" target="inline"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee4206393eb5afde4a8263_twitter.svg'></img></a>
-  <a class="nav__icon is-small" href="" target"inline"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee420a1b07b9e11d8126bf_linkedin.svg'></img></a>
+  <a class="nav__icon-footer" href="https://www.linkedin.com/in/ayeshamathews/" target="inline"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee4206393eb5afde4a8263_twitter.svg'></img></a>
+  <a class="nav__icon-footer" href="" target"inline"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee420a1b07b9e11d8126bf_linkedin.svg'></img></a>
   </div>
   `;
   document.body.insertBefore(nav, document.body.firstChild);
