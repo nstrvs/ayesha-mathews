@@ -83,14 +83,14 @@ ul {
     display: none;
 }
 
-@media only screen and (max-width: 480px) { 
+@media only screen and (max-width: 479px) { 
     .nav {
         width: 100vw;
     }
 
     .nav__icon {
         width: 100vw;
-        height: 20vw;
+        height: 10;
     }
 
     .nav__icon img {
@@ -101,7 +101,7 @@ ul {
     .nav__wrapper {
         flex-direction: column;
         gap: 3vw;
-        transform: 0;
+        transform: rotate(0);
     }
 
     .nav__item {
