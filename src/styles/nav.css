@@ -12,10 +12,10 @@ ul {
 
 .nav {
     width: 5vw;
-    height: 100vh;
     position: fixed;
     top: 1.6vw;
     left: 1.6vw;
+    bottom: 1.6vw;
     z-index: 4;
     display: flex;
     flex-direction: column;
@@ -81,4 +81,44 @@ ul {
 
 .closed {
     display: none;
+}
+
+@media only screen and (max-width: 480px) { 
+    .nav {
+        width: 100vw;
+    }
+
+    .nav__icon {
+        width: 100vw;
+        height: 20vw;
+    }
+
+    .nav__icon img {
+        height: 5vw;
+        width: 5vw;
+    }
+
+    .nav__wrapper {
+        flex-direction: column;
+        gap: 3vw;
+        transform: 0;
+    }
+
+    .nav__item {
+        font-size: 3vw;
+        line-height: 3.5vw;
+    }
+
+    .nav__footer {
+        flex-direction: row;
+        gap: 3vw;
+        width: 10vw;
+        bottom: 10vw;
+        left: auto;
+        }
+
+    .nav__footer-item {
+        width: 3.5vw;
+        height: 3.5vw;
+    }
 }
