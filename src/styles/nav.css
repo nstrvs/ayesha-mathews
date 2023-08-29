@@ -38,8 +38,9 @@ ul {
     color: #fff;
 }
 
-.nav__icon i {
-    font-size: 2vw;
+.nav__icon img {
+    height: 2vw;
+    width: 2vw;
 }
 
 .nav__links {

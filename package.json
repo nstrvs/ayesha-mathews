@@ -12,7 +12,6 @@
     "parcel": "^2.9.3"
   },
   "dependencies": {
-    "font-awesome": "^4.7.0",
     "gsap": "^3.12.2"
   }
 }
