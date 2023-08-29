@@ -21,7 +21,6 @@ ul {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-top: 5vw;
 }
 
 .nav__icon {
@@ -71,12 +70,13 @@ ul {
     position: fixed;
     bottom: 1.6vw;
     left: 1.6vw;
+    width: 5vw;
 }
 
 
 .nav__footer-item {
-    width: 2vw;
-    height: 2vw;
+    width: 1.4vw;
+    height: 1.4vw;
 }
 
 .closed {
