@@ -3,8 +3,8 @@ function addNav() {
   nav.setAttribute('id', 'nav');
   nav.setAttribute('class', 'nav');
   nav.innerHTML = ` 
-  <div id="nav-open" class="nav__icon"><img src='./shared/open.svg'></img></div>
-  <div id="nav-close" class="nav__icon closed"><img src='./shared/close.svg'></img></div>
+  <div id="nav-open" class="nav__icon"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee14abdc2549f5365efbfe_open.svg'></img></div>
+  <div id="nav-close" class="nav__icon closed"><img src='https://uploads-ssl.webflow.com/647b560fa041413036759f33/64ee14a75554e5868f0506d3_close.svg'></img></div>
   <ul id="nav-links" class="nav__links closed">
       <li class="Text Block"><a href="/">Home</a></li>
       <li class="Text Block"><a href="/about">About</a></li>
