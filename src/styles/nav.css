@@ -53,9 +53,9 @@ ul {
 .nav__item {
     color: #000;
     font-family: sofia-pro, sans-serif;
-    font-size: 1.4vw;
+    font-size: 1vw;
     font-weight: 700;
-    line-height: 2vw;
+    line-height: 1.5vw;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 0.1vw;
