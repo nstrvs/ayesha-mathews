@@ -39,7 +39,6 @@ function toggleNav() {
 
         if (window.innerWidth <= 479) {
             nav.style.height = '100vh';
-            body.style.overflow = 'hidden';
         }
     });
 
@@ -52,7 +51,6 @@ function toggleNav() {
 
         if (window.innerWidth <= 479) {
             nav.style.height = '10vh';
-            body.style.overflow = 'visible';
         }
     });
 }
