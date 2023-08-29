@@ -13,9 +13,9 @@ ul {
 .nav {
     width: 5vw;
     position: fixed;
-    top: 1.6vw;
+    top: 1.5vw;
     left: 1.6vw;
-    bottom: 1.6vw;
+    bottom: 1.5vw;
     z-index: 5;
     display: flex;
     flex-direction: column;
@@ -71,6 +71,7 @@ ul {
     bottom: 1.6vw;
     left: 1.6vw;
     width: 5vw;
+    padding-bottom: 1vw;
 }
 
 
