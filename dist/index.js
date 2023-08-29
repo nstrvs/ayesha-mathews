@@ -207,8 +207,8 @@ s.innerHTML=`
 e(r,s)}),// Listen for mousemove event to update the position of the info container
 r.addEventListener("mousemove",t=>{e(t,document.getElementById("info-container"))}),// Listen for mouseout event to hide the info container
 r.addEventListener("mouseout",()=>{document.getElementById("info-container").remove()})})},iL=function(){let t=document.createElement("link");t.rel="stylesheet",t.href="https://ayesha-mathews.vercel.app/index.css",document.head.appendChild(t)},iI=function(){let t=document.createElement("div");t.classList.add("white__square"),document.body.appendChild(t)};document.addEventListener("DOMContentLoaded",function(){iI(),function(){let t=document.createElement("nav");t.setAttribute("id","nav"),t.setAttribute("class","nav"),t.innerHTML=` 
-  <div id="nav-open" class="nav__icon"><img src='../shared/open.svg'></img></div>
-  <div id="nav-close" class="nav__icon closed"><img src='../shared/close.svg'></img></i></div>
+  <div id="nav-open" class="nav__icon"><img src='./shared/open.svg'></img></div>
+  <div id="nav-close" class="nav__icon closed"><img src='./shared/close.svg'></img></div>
   <ul id="nav-links" class="nav__links closed">
       <li class="Text Block"><a href="/">Home</a></li>
       <li class="Text Block"><a href="/about">About</a></li>
