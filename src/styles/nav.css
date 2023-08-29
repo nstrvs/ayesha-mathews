@@ -113,13 +113,13 @@ ul {
     .nav__footer {
         flex-direction: row;
         gap: 3vw;
-        width: 10vw;
+        width: auto;
         bottom: 10vw;
         left: auto;
         }
 
     .nav__footer-item {
-        width: 5vw;
-        height: 5vw;
+        width: 3.5vw;
+        height: 3.5vw;
     }
 }

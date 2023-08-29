@@ -46,6 +46,6 @@
     }
 
     .white__square {
-        border: 2.5vw;
+        border: 2.5vw solid #fff;
     }
 }
