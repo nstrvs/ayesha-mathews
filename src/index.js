@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
   
     if (page === '/') {
         carouselAnimation();
-    } else if (page === '/impact') {
         showContent();
-    }
+    } 
   });
