@@ -53,4 +53,9 @@
     .w-slider-arrow-left, .w-slider-arrow-right {
         font-size: 25px !important;
     }
+
+    .rich-text li {
+        font-size: 3vw !important;
+        line-height: 5vw !important;
+    }
 }
