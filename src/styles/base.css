@@ -48,4 +48,8 @@
     .white__square {
         border: 2.5vw solid #fff;
     }
+
+    .w-slider-arrow-left, .w-slider-arrow-right {
+        font-size: 25px !important;
+    }
 }
