@@ -58,4 +58,9 @@
         font-size: 3vw !important;
         line-height: 5vw !important;
     }
+
+    .rich-text h1 {
+        font-size: 5vw !important;
+        line-height: 7vw !important;
+    }
 }
