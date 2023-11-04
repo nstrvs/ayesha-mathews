@@ -27,7 +27,7 @@ function showContent() {
         }
     }
 
-    function createContent(content) {
+    function createContent(content, slide) {
         let infoContainer = document.createElement('div');
         infoContainer.id = 'info-container';
         infoContainer.classList.add('info-container');
@@ -54,21 +54,21 @@ function showContent() {
     }
 
     document.getElementById('sambanova').addEventListener('mouseover', (e) => {
-        slide.addEventListener('mouseover', (e) => {
+        e.addEventListener('mouseover', (slide) => {
             // Get the content for this slide
             let content = showContent['sambanova'].image;
 
-            createContent(content);
+            createContent(content, slide);
 
         });
     });
 
     document.getElementById('talkdesk').addEventListener('mouseover', (e) => {
-        slide.addEventListener('mouseover', (e) => {
+        e.addEventListener('mouseover', (slide) => {
             // Get the content for this slide
             let content = showContent['talkdesk'].image;
 
-            createContent(content);
+            createContent(content, slide);
 
         });
     });
